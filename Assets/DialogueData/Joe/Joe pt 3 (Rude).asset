@@ -10,17 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d51bec61f391d6146b2fbba60e9e508a, type: 3}
-  m_Name: Test
+  m_Name: Joe pt 3 (Rude)
   m_EditorClassIdentifier: 
   dialogue:
-  - 'this is my dialogue!
-
-    hello'
-  - 'This is my second dialogue
-
-    goodbye!'
-  responses:
-  - responseText: Yes
-    dialogueObject: {fileID: 11400000, guid: 82b4038339ac3f94bae611942239df6d, type: 2}
-  - responseText: No
-    dialogueObject: {fileID: 11400000, guid: 23a9273658aae28479fa6c330886e691, type: 2}
+  - Okay! I'm gonna pretend that I didn't hear that Finn.
+  - Anyways, if you ever wanna say hi, feel free to pop in next door. Otherwise,
+    you can find me in my shop here in the village.
+  responses: []
