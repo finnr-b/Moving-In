@@ -16,9 +16,7 @@ MonoBehaviour:
   - Very nice to meet you, Finn.
   - So what's brought you to this nice village here?
   responses:
-  - responseText: I wanted to get away from the hustle and bustle of the big city
-      and settle down for some peace and quiet.
+  - responseText: I wanted to get away from the busy life.
     dialogueObject: {fileID: 11400000, guid: 4fc3b426f64443b4e96e51dfdc5b4713, type: 2}
-  - responseText: I needed to dumb myself down so I decided to move to this dump
-      of a hick town to do so.
+  - responseText: I wanna dumb myself down so I moved here.
     dialogueObject: {fileID: 11400000, guid: 40b218af109327d49867563478a87e96, type: 2}

@@ -17,5 +17,5 @@ MonoBehaviour:
   responses:
   - responseText: Yes, I am. It's very nice to meet you, Sherry.
     dialogueObject: {fileID: 11400000, guid: 9d2bfd19879dc034e8f7f7b54a3634ff, type: 2}
-  - responseText: Wow, I can already tell you're gonna be obnoxious and annoying!
+  - responseText: Wow, I can tell you're obnoxious and annoying!
     dialogueObject: {fileID: 11400000, guid: c1208a79c61fa6f489000a3f910292da, type: 2}
